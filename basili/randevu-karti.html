@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><title>Randevu kartı</title>
+<!-- Basılı randevu kartı (A6, 105×148 mm). PDF: sh basili/pdf.sh -->
+<style>
+@font-face{font-family:C;src:url(../public/font/cormorant-latin.woff2)}
+@font-face{font-family:C;src:url(../public/font/cormorant-latin-ext.woff2);unicode-range:U+0100-02BA}
+@font-face{font-family:C;font-style:italic;src:url(../public/font/cormorant-italic-latin.woff2)}
+@font-face{font-family:C;font-style:italic;src:url(../public/font/cormorant-italic-latin-ext.woff2);unicode-range:U+0100-02BA}
+@font-face{font-family:M;src:url(../public/font/manrope-latin.woff2);font-weight:300 800}
+@font-face{font-family:M;src:url(../public/font/manrope-latin-ext.woff2);font-weight:300 800;unicode-range:U+0100-02BA}
+@page{size:105mm 148mm;margin:0}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{width:105mm;height:148mm;font-family:M,sans-serif;color:#1f1719;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.kart{position:relative;width:105mm;height:148mm;padding:9mm 9mm 8mm;background:#f8f2ed;display:flex;flex-direction:column;align-items:center;text-align:center;overflow:hidden}
+.kart::before{content:"";position:absolute;inset:4mm;border:.3mm solid #c9a45c;border-radius:3mm;pointer-events:none}
+.logo{display:flex;align-items:center;gap:3mm}
+.logo img{width:13mm;height:13mm}
+.logo b{display:block;font-family:C;font-weight:500;font-size:9mm;line-height:1;letter-spacing:.02em;text-align:left}
+.logo small{display:block;font-size:2.5mm;font-weight:700;letter-spacing:.25em;color:#86621f;margin-top:1mm;text-align:left}
+.logo small i{font-family:C;font-size:3.4mm;letter-spacing:0}
+h1{font-family:C;font-weight:500;font-size:8.2mm;line-height:1.05;margin:7mm 0 1.5mm}
+h1 em{color:#9b4f5c}
+.alt{font-size:3mm;color:#554649;margin:0 0 5mm}
+.qr{width:46mm;height:46mm;padding:3.5mm;background:#fff;border-radius:3mm;box-shadow:0 0 0 .3mm #ecdfd7}
+.qr img{width:100%;height:100%;display:block}
+.adimlar{display:flex;gap:2.5mm;margin:4mm 0 0;font-size:2.6mm;font-weight:700;color:#554649}
+.adimlar span{display:flex;align-items:center;gap:1.2mm}
+.adimlar i{font-style:normal;width:4.2mm;height:4.2mm;border-radius:50%;background:#141011;color:#e2c68c;display:grid;place-items:center;font-size:2.3mm}
+.bilgi{margin-top:auto;width:100%;border-top:.25mm solid #ecdfd7;padding-top:3.5mm;font-size:2.7mm;line-height:1.55;color:#554649}
+.bilgi b{color:#1f1719;font-size:4.2mm;letter-spacing:.02em;display:block;margin-bottom:.6mm}
+</style></head>
+<body>
+<div class="kart">
+  <div class="logo"><img src="../public/favicon.svg" alt=""><span><b>Black Rose</b><small><i>&amp;</i> ALTIN MAŞA</small></span></div>
+  <h1>Randevunuzu <em>telefonunuzdan</em> oluşturun</h1>
+  <p class="alt">Kamerayla okutun, hizmeti ve günü seçin, WhatsApp'tan gönderin.</p>
+  <div class="qr"><img src="qr-randevu.svg" alt="Randevu sayfası QR kodu"></div>
+  <div class="adimlar"><span><i>1</i>Okutun</span><span><i>2</i>Seçin</span><span><i>3</i>Gönderin</span></div>
+  <div class="bilgi">
+    <b>0530 970 23 74</b>
+    Telefon · WhatsApp · Pzt–Cmt 09:00–19:00<br>
+    İsmet İnönü Cad. No:43C Kat:4 · Kars
+  </div>
+</div>
+</body></html>

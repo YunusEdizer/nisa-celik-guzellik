@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nisa-celik-guzellik.vercel.app/sitemap.xml

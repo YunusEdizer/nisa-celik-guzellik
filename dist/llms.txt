@@ -1,0 +1,28 @@
+# Black Rose & Altın Maşa
+
+> Kars'taki güzellik salonu. Ortaklar: Nisa Çelik ve Rabia Bektaş. Adres: Cumhuriyet Mah. İsmet İnönü Cad. No:43C Kat:4 Daire:22, Kars. Telefon ve WhatsApp: 0530 970 23 74. Randevu WhatsApp üzerinden alınır.
+
+## Hizmetler
+- [Altın Oran Kaş Alımı](https://nisa-celik-guzellik.vercel.app/hizmetler/altin-oran-kas-alimi/): Başlangıç, kemer ve bitiş noktası yüzünüzün ölçüleriyle belirlenir.
+- [Kaş Lifting](https://nisa-celik-guzellik.vercel.app/hizmetler/kas-lifting/): Kaş kılları yukarı doğru, düzenli ve dolgun görünecek şekilde sabitlenir.
+- [Kirpik Lifting](https://nisa-celik-guzellik.vercel.app/hizmetler/kirpik-lifting/): Kendi kirpiklerinize ekleme yapmadan kıvrım ve kalkıklık kazandırır.
+- [İpek Kirpik](https://nisa-celik-guzellik.vercel.app/hizmetler/ipek-kirpik/): Doğal kirpiklerinize tek tek eklenen kirpiklerle daha yoğun bakışlar.
+- [Cilt Bakımı](https://nisa-celik-guzellik.vercel.app/hizmetler/cilt-bakimi/): Cildinizin tipine ve ihtiyacına göre planlanan derinlemesine bakım.
+- [Lazer Epilasyon](https://nisa-celik-guzellik.vercel.app/hizmetler/lazer-epilasyon/): İstenmeyen tüylerden, seanslar ilerledikçe kalıcıya yakın kurtulun.
+- [Lenf Drenaj](https://nisa-celik-guzellik.vercel.app/hizmetler/lenf-drenaj/): Hafif ve ritmik masajla ödem ve şişkinlik hissine destek.
+- [Vakum ve EMS](https://nisa-celik-guzellik.vercel.app/hizmetler/vakum-ems/): Cihaz destekli masaj ve kas uyarımıyla sıkılaşma ve bölgesel bakım.
+- [Tırnak Tasarımı](https://nisa-celik-guzellik.vercel.app/hizmetler/tirnak-tasarimi/): Protez tırnak, kalıcı oje ve size özel tırnak tasarımları.
+- [Manikür](https://nisa-celik-guzellik.vercel.app/hizmetler/manikur/): Tırnak şekillendirme, kütikül bakımı ve bakımlı eller.
+- [Saç Boyama](https://nisa-celik-guzellik.vercel.app/hizmetler/sac-boyama/): Dip boya, renk yenileme ya da tamamen yeni bir renk.
+
+## Güzellik rehberi
+- [Kirpik lifting mi, ipek kirpik mi?](https://nisa-celik-guzellik.vercel.app/rehber/kirpik-lifting-mi-ipek-kirpik-mi/): Doğal ve bakım gerektirmeyen bir sonuç istiyorsanız kirpik lifting; daha uzun, yoğun ve makyajlı bir bakış istiyorsanız ipek kirpik.
+- [Altın oran kaş nasıl ölçülür?](https://nisa-celik-guzellik.vercel.app/rehber/altin-oran-kas-nasil-olculur/): Burun kanadınızdan başlayan üç çizgi kaşınızı belirler: gözün iç köşesinden geçen çizgi başlangıcı, göz bebeğinin dış kenarından geçen çizgi kemeri, gözün dış köşesinden geçen çizgi bitişi gösterir.
+- [Lazer epilasyon kaç seans sürer, ne zaman başlanmalı?](https://nisa-celik-guzellik.vercel.app/rehber/lazer-epilasyon-kac-seans/): Tek seans yetmez; çünkü lazer yalnızca o anda aktif büyüme evresindeki tüylere etki eder.
+- [Kars'ın soğuk ve kuru havasında cilt bakımı](https://nisa-celik-guzellik.vercel.app/rehber/soguk-havada-cilt-bakimi/): Soğuk hava, rüzgâr ve kalorifer cildin nemini hızla alır; yüksek rakım ve kar ise kış güneşini güçlendirir.
+- [Protez tırnak mı, kalıcı oje mi?](https://nisa-celik-guzellik.vercel.app/rehber/protez-tirnak-mi-kalici-oje-mi/): Kendi tırnaklarınız yeterince uzun ve sağlamsa kalıcı oje çoğu zaman yeterlidir.
+- [İpek kirpik bakımı: ilk 24 saat ve sonrası](https://nisa-celik-guzellik.vercel.app/rehber/ipek-kirpik-bakimi/): İlk 24 saat kirpikleri ıslatmayın.
+
+## İletişim
+- [Randevu](https://nisa-celik-guzellik.vercel.app/randevu/)
+- [İletişim](https://nisa-celik-guzellik.vercel.app/iletisim/)
